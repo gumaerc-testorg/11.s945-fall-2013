@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 439e3d51-e5ec-85a0-a970-1144ca182d73
 ---
@@ -58,7 +61,7 @@ Each pair of students will be assigned to one of the literature synthesis [candi
         *   Point the way forward for further research
     5.  Conclusions
 3.  Bibliography  
-    Please provide full reference information and follow the [APA Style®](http://www.apastyle.org/). You can find a [basic introduction to the APA citation style](http://library.concordia.ca/help/howto/apa.php) from Concordia University Libraries.
+    Please provide full reference information and follow the [APA Style{{< sup "®" >}}](http://www.apastyle.org/). You can find a [basic introduction to the APA citation style](http://library.concordia.ca/help/howto/apa.php) from Concordia University Libraries.
 4.  How to start
 
 *   Read other papers' literature review sections and follow good styles.

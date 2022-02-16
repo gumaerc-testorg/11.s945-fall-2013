@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2de69591-16c3-352b-18a4-497cfb47b0c7
 ---
@@ -49,13 +51,13 @@ Students take this course for different reasons, and so there are correspondingl
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="3" >}}
 ACTIVITIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="3" >}}
 PERCENTAGES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 REQUIRED?
 {{< thclose >}}
 

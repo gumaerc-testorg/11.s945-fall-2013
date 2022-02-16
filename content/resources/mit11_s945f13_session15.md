@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource file contains information regarding session 15.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/033eb1246bfd974694235408347530c5_MIT11_S945F13_Session15.pdf
+file: /media/courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/033eb1246bfd974694235408347530c5_MIT11_S945F13_Session15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Session 15: Progress in Energy Efficiency'
 uid: 033eb124-6bfd-9746-9423-5408347530c5

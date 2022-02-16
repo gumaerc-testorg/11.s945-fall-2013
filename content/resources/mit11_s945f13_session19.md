@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding session 19.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/b5e5e8f7b99c0de165114e52e6dfc19a_MIT11_S945F13_Session19.pdf
+file: /media/courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/b5e5e8f7b99c0de165114e52e6dfc19a_MIT11_S945F13_Session19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Session 19: Third Module Summary Part 2'
 uid: b5e5e8f7-b99c-0de1-6511-4e52e6dfc19a

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource file contains information regarding session 10.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/822b2d898a60fb91a5f21a58a6675b5d_MIT11_S945F13_Session10.pdf
+file: /media/courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/822b2d898a60fb91a5f21a58a6675b5d_MIT11_S945F13_Session10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Session 10: Dispersion of Urban Agglomeration through High-Speed Rail'
 uid: 822b2d89-8a60-fb91-a5f2-1a58a6675b5d

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 2f74bf52-0c54-5aca-42b4-8845671bd27c
 ---
@@ -151,6 +154,6 @@ Keywords
 
 {{< tableclose >}}
 
-Please use [Mendeley](http://www.mendeley.com/) or [Zotero](https://www.zotero.org/) for references, and follow the [APA Style®](http://www.apastyle.org/).
+Please use [Mendeley](http://www.mendeley.com/) or [Zotero](https://www.zotero.org/) for references, and follow the [APA Style{{< sup "{{< sub \"®\" >}}" >}}](http://www.apastyle.org/).
 
 Both draft and final reports should be a complete documentation of your term projects. The difference is that the draft is the best you can do before the instructor's comments, and the final is the best you can do after the instructor's comments.
