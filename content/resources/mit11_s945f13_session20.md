@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: 'Session 20: Drifting and Getting Stuck'
 uid: 72c757b8-4e78-6695-6054-61bd0485bb2f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: 'Session 10: Dispersion of Urban Agglomeration through High-Speed Rail'
 uid: 822b2d89-8a60-fb91-a5f2-1a58a6675b5d

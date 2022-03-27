@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: 'Session 1: Multiple Interpretations: Urbanization Out of Sync'
 uid: 390a3d8c-0a11-ffbd-bc29-544ca408eadb

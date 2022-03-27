@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: Land Use and Public Finance Institutions in China
 uid: bbf0f5d4-d4b1-9b59-dd0a-b11f577c1cc5

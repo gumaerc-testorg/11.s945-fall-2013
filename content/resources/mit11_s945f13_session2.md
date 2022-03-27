@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: MIT11_S945F13_Ses2.pdf
 uid: 591577b6-956e-d2ab-b5bd-c3df9a979d89

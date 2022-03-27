@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: 'Session 3: Hukou and Migration'
 uid: 0d2ff476-3223-1100-e4ad-044ef3de2ae0

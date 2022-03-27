@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8399e131-3641-5b76-deb8-6fce5f1ad713
 resourcetype: Document
 title: 'Session 6: Brownfields in Beijing Chemical Plant'
 uid: 6f9a893c-c81e-611a-d3c5-016a24180c8f
