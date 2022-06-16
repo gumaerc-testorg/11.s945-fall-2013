@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section includes select videos of the class sessions.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

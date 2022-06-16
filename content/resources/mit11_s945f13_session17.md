@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding session 17.
-file: /media/courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/09789a553dfe95e077caff6a265e1cb0_MIT11_S945F13_Session17.pdf
+file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/09789a553dfe95e077caff6a265e1cb0_MIT11_S945F13_Session17.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ title: 'Session 17: Understanding and Untangling Complex Urban Issues through Em
   Big Data'
 uid: 09789a55-3dfe-95e0-77ca-ff6a265e1cb0
 ---
+This resource file contains information regarding session 17.
+

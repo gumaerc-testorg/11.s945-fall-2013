@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides summaries of the topics covered in each session
+  of the course and the slides used for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -47,7 +49,7 @@ China urbanized 350 million people in the past thirty years and is poised to do 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Slides (PDF - 2.3MB)]({{< baseurl >}}/resources/mit11_s945f13_session1)
+{{% resource_link 390a3d8c-0a11-ffbd-bc29-544ca408eadb "Lecture 1 Slides (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ China has been experiencing an urbanization process that is unprecedented in ter
 {{< tdopen >}}
 
 
-[Lecture 2 Slides (PDF - 5.0MB)]({{< baseurl >}}/resources/mit11_s945f13_session2)
+{{% resource_link 591577b6-956e-d2ab-b5bd-c3df9a979d89 "Lecture 2 Slides (PDF - 5.0MB)" %}}
 
 (_Courtesy of Liyan Xu. Used with permission._)
 
@@ -93,7 +95,7 @@ Notwithstanding China's long urban history, the country remained largely an agra
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit11_s945f13_session3)
+{{% resource_link 0d2ff476-3223-1100-e4ad-044ef3de2ae0 "Lecture 3 Slides (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ This session introduces China's basic land use and public finance institutions, 
 {{< tdopen >}}
 
 
-[Lecture 4 Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit11_s945f13_session4)
+{{% resource_link bbf0f5d4-d4b1-9b59-dd0a-b11f577c1cc5 "Lecture 4 Slides (PDF - 1.8MB)" %}}
 
 (_Courtesy of Liyan Xu. Used with permission._)
 
@@ -147,7 +149,7 @@ China's meteoric economic growth has been taking place with a set of property ri
 {{< tdopen >}}
 
 
-[Lecture 5 Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit11_s945f13_session5)
+{{% resource_link 2589aea7-539d-0153-98a9-545daa0cde64 "Lecture 5 Slides (PDF - 2.0MB)" %}}
 
 (_Courtesy of Yuan Xiao. Used with permission._)
 
@@ -173,7 +175,7 @@ Following the stories of a land redevelopment project over an eight-year period,
 {{< tdopen >}}
 
 
-[Lecture 6 Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit11_s945f13_session6)
+{{% resource_link 6f9a893c-c81e-611a-d3c5-016a24180c8f "Lecture 6 Slides (PDF - 2.2MB)" %}}
 
 (_Courtesy of Xin Li. Used with permission._)
 
@@ -199,7 +201,7 @@ The Chinese government has been experimenting with the idea of taxing both land 
 {{< tdopen >}}
 
 
-[Lecture 7 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session7)
+{{% resource_link 6296ded9-96e0-ad42-5b17-e69bce7382ac "Lecture 7 Slides (PDF)" %}}
 
 (_Courtesy of Yu-Hung Hong. Used with permission._)
 
@@ -217,7 +219,7 @@ Module Summary; Student Presentations for Phase 1: Ideas
 {{< tdopen >}}
 
 
-[Lecture 8 Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit11_s945f13_session8)
+{{% resource_link fc7c5d59-5591-54d8-7bcf-a08667b14e5a "Lecture 8 Slides (PDF - 1.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -247,7 +249,7 @@ Dr. Fang's research estimates transport infrastructure's influence on the produc
 {{< tdopen >}}
 
 
-[Lecture 10 Slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mit11_s945f13_session10)
+{{% resource_link 822b2d89-8a60-fb91-a5f2-1a58a6675b5d "Lecture 10 Slides (PDF - 2.1MB)" %}}
 
 (_Courtesy of Wanli Fang. Used with permission._)
 
@@ -271,7 +273,7 @@ The astronomical growth in private cars in China, which surpassed that of the U.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 Slides (PDF - 2.7MB)]({{< baseurl >}}/resources/mit11_s945f13_session11)
+{{% resource_link 93b5f7bd-f043-ead2-d439-cd40f03294b2 "Lecture 11 Slides (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +295,7 @@ One of the consequences of China's rapid economic growth is increased urban air 
 {{< tdopen >}}
 
 
-[Lecture 12 Slides (PDF - 3.6MB)]({{< baseurl >}}/resources/mit11_s945f13_session12)
+{{% resource_link 078f44ef-d6c5-9ebb-9bd6-7d648144909b "Lecture 12 Slides (PDF - 3.6MB)" %}}
 
 (_Courtesy of Kyung-Min Nam. Used with permission._)
 
@@ -353,7 +355,7 @@ The recent growth of China's automobile industry has been tremendous. From 2005 
 {{< tdopen >}}
 
 
-[Lecture 15 Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit11_s945f13_session15)
+{{% resource_link 033eb124-6bfd-9746-9423-5408347530c5 "Lecture 15 Slides (PDF - 1.3MB)" %}}
 
 (_Courtesy of Yang Yu. Used with permission._)
 
@@ -379,7 +381,7 @@ The need to finance urban access to meet the mobility needs of the developed and
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session16)
+{{% resource_link f3195bd2-4954-3405-8fa4-e287929aa543 "Lecture 16 Slides (PDF)" %}}
 
 (_Courtesy of David Block-Schachter. Used with permission._)
 
@@ -405,7 +407,7 @@ As the proliferation of urban sensing, social media, and location-based devices 
 {{< tdopen >}}
 
 
-[Lecture 17 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session17)
+{{% resource_link 09789a55-3dfe-95e0-77ca-ff6a265e1cb0 "Lecture 17 Slides (PDF)" %}}
 
 (_Courtesy of Shan Jiang and Yi Zhu. Used with permission._)
 
@@ -423,9 +425,9 @@ Module Summary; Student Presentations for Phase 3: Literature
 {{< tdopen >}}
 
 
-[Lecture 18 Slides (PDF- 1.8MB)]({{< baseurl >}}/resources/mit11_s945f13_session18)
+{{% resource_link 275d2599-04b8-7eb4-4336-08f75677a7cc "Lecture 18 Slides (PDF- 1.8MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Slides (PDF - 2.6MB)]({{< baseurl >}}/resources/mit11_s945f13_session19)
+{{% resource_link b5e5e8f7-b99c-0de1-6511-4e52e6dfc19a "Lecture 19 Slides (PDF - 2.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -455,7 +457,7 @@ Residential mobility patterns are an important indicator of the future socioecon
 {{< tdopen >}}
 
 
-[Lecture 20 Slides (PDF)]({{< baseurl >}}/resources/mit11_s945f13_session20)
+{{% resource_link 72c757b8-4e78-6695-6054-61bd0485bb2f "Lecture 20 Slides (PDF)" %}}
 
 (_Courtesy of Weiping Wu. Used with permission._)
 
@@ -481,7 +483,7 @@ Over the last decade, there were 10 million Chinese people moving from countrysi
 {{< tdopen >}}
 
 
-[Lecture 21 Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit11_s945f13_session21)
+{{% resource_link bb6750f0-ee74-6316-a8a0-b557123aec30 "Lecture 21 Slides (PDF - 1.4MB)" %}}
 
 (_Courtesy of Yulin Chen. Used with permission._)
 

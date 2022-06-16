@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes a list of candidate topics for the team project and
+  the literature synthesis assignment.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

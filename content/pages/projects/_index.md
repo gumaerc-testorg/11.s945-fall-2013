@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the requirements for the team project
+  and a list of the candidate project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Projects
 uid: 2f74bf52-0c54-5aca-42b4-8845671bd27c
 ---
 
-Students will pair themselves and deliver a project as a team. Each pair will choose one of the [candidate topics]({{< baseurl >}}/pages/projects/candidate-topics) or may propose a different topic, which is equally encouraged. The deliverables include:
+Students will pair themselves and deliver a project as a team. Each pair will choose one of the {{% resource_link 28aa22b4-dc4e-f8f6-2b97-78ceccd6ca8f "candidate topics" %}} or may propose a different topic, which is equally encouraged. The deliverables include:
 
 *   Project idea (600 words) and presentation (5 minutes)
 *   Project proposal (3000 words) and presentation (15 minutes)
