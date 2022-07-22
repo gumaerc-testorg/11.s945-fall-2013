@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/fc7c5d59
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 8: First Module Summary'
 uid: fc7c5d59-5591-54d8-7bcf-a08667b14e5a
 ---
 This resource file contains information regarding session 8.
-

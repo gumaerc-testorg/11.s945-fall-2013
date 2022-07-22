@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/078f44ef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 12: Costs of Air Pollution'
 uid: 078f44ef-d6c5-9ebb-9bd6-7d648144909b
 ---
 This resource file contains information regarding session 12.
-

@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/93b5f7bd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 11: Managing Car Ownership in Chinese Mega Cities'
 uid: 93b5f7bd-f043-ead2-d439-cd40f03294b2
 ---
 This is a resource file that contains information regarding session 11.
-

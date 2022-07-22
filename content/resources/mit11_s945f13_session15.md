@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/033eb124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 15: Progress in Energy Efficiency'
 uid: 033eb124-6bfd-9746-9423-5408347530c5
 ---
 This resource file contains information regarding session 15.
-

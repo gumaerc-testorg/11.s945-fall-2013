@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/390a3d8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 1: Multiple Interpretations: Urbanization Out of Sync'
 uid: 390a3d8c-0a11-ffbd-bc29-544ca408eadb
 ---
 This resource file contains information regarding session 1.
-

@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/bbf0f5d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Land Use and Public Finance Institutions in China
 uid: bbf0f5d4-d4b1-9b59-dd0a-b11f577c1cc5
 ---
 This resource file contains information regarding session 4.
-

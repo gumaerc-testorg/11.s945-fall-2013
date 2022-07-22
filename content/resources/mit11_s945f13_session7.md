@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/6296ded9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 7: Integrating Property Tax with the Public Leasehold System'
 uid: 6296ded9-96e0-ad42-5b17-e69bce7382ac
 ---
 This resource file contains information regarding session 7.
-

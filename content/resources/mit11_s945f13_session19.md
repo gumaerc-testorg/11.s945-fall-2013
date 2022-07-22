@@ -5,6 +5,7 @@ file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/b5e5e8f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Session 19: Third Module Summary Part 2'
 uid: b5e5e8f7-b99c-0de1-6511-4e52e6dfc19a
 ---
 This is a resource file that contains information regarding session 19.
-
