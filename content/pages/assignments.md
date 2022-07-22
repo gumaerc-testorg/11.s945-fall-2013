@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: 'This section provides descriptions of the course assignments, including
+  in-class idea notes and a literature synthesis. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 439e3d51-e5ec-85a0-a970-1144ca182d73
 ---
 
-Assignments for this course include the [in-class idea notes]({{< baseurl >}}/pages/assignments#In-class_Idea_Notes) and the [literature synthesis]({{< baseurl >}}/pages/assignments#Literature_Synthesis). The requirements for both are detailed below.
+Assignments for this course include the {{% resource_link 439e3d51-e5ec-85a0-a970-1144ca182d73 "in-class idea notes" "#In-class_Idea_Notes" %}} and the {{% resource_link 439e3d51-e5ec-85a0-a970-1144ca182d73 "literature synthesis" "#Literature_Synthesis" %}}. The requirements for both are detailed below.
 
 {{< anchor "In-class_Idea_Notes" >}}{{< /anchor >}}In-class Idea Notes
 ----------------------------------------------------------------------
@@ -22,7 +27,7 @@ These notes are completed and submitted at the end of each class session. Ten mi
 {{< anchor "Literature_Synthesis" >}}{{< /anchor >}}Literature Synthesis
 ------------------------------------------------------------------------
 
-Each pair of students will be assigned to one of the literature synthesis [candidate topics]({{< baseurl >}}/pages/projects/candidate-topics) to write and present a literature synthesis for China's urbanization. (The topic of the literature review may be the same as that of the [team project]({{< baseurl >}}/pages/projects).) The deliverables include:
+Each pair of students will be assigned to one of the literature synthesis {{% resource_link 28aa22b4-dc4e-f8f6-2b97-78ceccd6ca8f "candidate topics" %}} to write and present a literature synthesis for China's urbanization. (The topic of the literature review may be the same as that of the {{% resource_link 2f74bf52-0c54-5aca-42b4-8845671bd27c "team project" %}}.) The deliverables include:
 
 *   Presentation: 15 minutes including questions and answers
 *   Written report: 3000 words
@@ -58,7 +63,7 @@ Each pair of students will be assigned to one of the literature synthesis [candi
         *   Point the way forward for further research
     5.  Conclusions
 3.  Bibliography  
-    Please provide full reference information and follow the [APA Style®](http://www.apastyle.org/). You can find a [basic introduction to the APA citation style](http://library.concordia.ca/help/howto/apa.php) from Concordia University Libraries.
+    Please provide full reference information and follow the [APA Style{{< sup "®" >}}](http://www.apastyle.org/). You can find a [basic introduction to the APA citation style](http://library.concordia.ca/help/howto/apa.php) from Concordia University Libraries.
 4.  How to start
 
 *   Read other papers' literature review sections and follow good styles.

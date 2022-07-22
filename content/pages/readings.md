@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to readings and cases for each
+  of the class sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 241f4725-7635-4981-e2f1-9823bf3d66a3
 ---
@@ -296,7 +301,7 @@ Progress in Energy Efficiency: Technology, Policy and Market in China's Automobi
 {{< tdopen >}}
 
 
-Shu, Y., Y. Yu, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fuel Consumption and Technological Progress in Chinese Automobile Sector." (PDF - 1.2MB)](http://www.stanford.edu/group/peec/cgi-bin/docs/events/2013/10-25-13%20Yu.pdf) Working Paper, 2013.
+Shu, Y., Y. Yu, et al. ["Fuel Consumption and Technological Progress in Chinese Automobile Sector." (PDF - 1.2MB)](http://www.stanford.edu/group/peec/cgi-bin/docs/events/2013/10-25-13%20Yu.pdf) Working Paper, 2013.
 
 
 {{< tdclose >}}

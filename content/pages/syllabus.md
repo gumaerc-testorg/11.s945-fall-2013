@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, class structure, grading, class participation,
+  and recommended books.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2de69591-16c3-352b-18a4-497cfb47b0c7
 ---
@@ -49,13 +54,13 @@ Students take this course for different reasons, and so there are correspondingl
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="3" >}}
 ACTIVITIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="3" >}}
 PERCENTAGES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 REQUIRED?
 {{< thclose >}}
 
@@ -78,7 +83,7 @@ listener
 {{< tdopen >}}
 Class participation
 
-1.  [In-class idea notes]({{< baseurl >}}/pages/assignments#In-class_Idea_Notes): 27%
+1.  {{% resource_link 439e3d51-e5ec-85a0-a970-1144ca182d73 "In-class idea notes" "#In-class_Idea_Notes" %}}: 27%
 2.  Discussion: 13%
 
 
@@ -99,7 +104,7 @@ Yes
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Literature synthesis]({{< baseurl >}}/pages/assignments#Literature_Synthesis)
+{{% resource_link 439e3d51-e5ec-85a0-a970-1144ca182d73 "Literature synthesis" "#Literature_Synthesis" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 20
@@ -119,7 +124,7 @@ No
 {{< tdopen >}}
 
 
-[Team project]({{< baseurl >}}/pages/projects)
+{{% resource_link 2f74bf52-0c54-5aca-42b4-8845671bd27c "Team project" %}}
 
 1.  Idea: Not graded
 2.  Proposal: 10%
@@ -157,7 +162,7 @@ Active class participation is the essential part of this course. Students are as
 Recommended Books
 -----------------
 
-While texts relevant to each of the class sessions are provided in the [Readings]({{< baseurl >}}/pages/readings) section, below is a list of recommended books for this course:
+While texts relevant to each of the class sessions are provided in the {{% resource_link 241f4725-7635-4981-e2f1-9823bf3d66a3 "Readings" %}} section, below is a list of recommended books for this course:
 
 Wu, Weiping, and Piper Gaubatz. _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with [Google Books](http://books.google.com/books?id=EcPEykizV3gC&pg=PAfrontcover)\]
 
