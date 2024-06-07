@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding session 7.
 file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/6296ded996e0ad425b17e69bce7382ac_MIT11_S945F13_Session7.pdf
+file_size: 432986
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
