@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding session 4.
-file: /ol-ocw-studio-app/courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/bbf0f5d4d4b19b59dd0ab11f577c1cc5_MIT11_S945F13_Session4.pdf
+file: /courses/11-s945-urbanizing-china-a-reflective-dialogue-fall-2013/bbf0f5d4d4b19b59dd0ab11f577c1cc5_MIT11_S945F13_Session4.pdf
 file_size: 1924676
 file_type: application/pdf
 learning_resource_types:
