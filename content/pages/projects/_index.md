@@ -156,6 +156,6 @@ Keywords
 
 {{< tableclose >}}
 
-Please use [Mendeley](http://www.mendeley.com/) or [Zotero](https://www.zotero.org/) for references, and follow the [APA Style{{< sup "{{< sub \"®\" >}}" >}}](http://www.apastyle.org/).
+Please use {{% resource_link "f5919efc-4728-436c-9cac-5fc4355a07f1" "Mendeley" %}} or {{% resource_link "31987130-a9a2-4f1a-95dc-45cbd41fa14d" "Zotero" %}} for references, and follow the {{% resource_link "78862e2d-43ac-4ca8-8baa-4b917f57cf5c" "APA Style{{< sup \"{{< sub \\"®\\" >}}\" >}}" %}}.
 
 Both draft and final reports should be a complete documentation of your term projects. The difference is that the draft is the best you can do before the instructor's comments, and the final is the best you can do after the instructor's comments.
