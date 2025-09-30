@@ -43,19 +43,19 @@ Multiple Interpretations: Urbanization out of Sync
 {{< tdopen >}}
 
 
-Johnson, I. "[China's Great Uprooting: Moving 250 Million Into Cities](http://www.nytimes.com/2013/06/16/world/asia/chinas-great-uprooting-moving-250-million-into-cities.html?pagewanted=all&_r=0)," _New York Times_, June 15, 2013.
+Johnson, I. "{{% resource_link "bcf27714-5c13-4a93-9c86-980f65cc27c5" "China's Great Uprooting: Moving 250 Million Into Cities" %}}," _New York Times_, June 15, 2013.
 
-———. "[Pitfalls Abound in China's Push From Farm to City](http://www.nytimes.com/2013/07/14/world/asia/pitfalls-abound-in-chinas-push-from-farm-to-city.html)," _New York Times_, July 13, 2013.
+———. "{{% resource_link "9248bc4b-2f5f-4a42-b586-25a824dbe10b" "Pitfalls Abound in China's Push From Farm to City" %}}," _New York Times_, July 13, 2013.
 
-Friedmann, J. "Introduction: Becoming Urban in China." In _China's Urban Transition_. University of Minnesota Press, 2005. ISBN: 9780816646159. \[Preview with [Google Books](http://books.google.com/books?id=6EzyPHETvWMC&pg=PAfrontcover)\]
+Friedmann, J. "Introduction: Becoming Urban in China." In _China's Urban Transition_. University of Minnesota Press, 2005. ISBN: 9780816646159. \[Preview with {{% resource_link "61076509-8581-4ba5-8ca9-842105bf8ca7" "Google Books" %}}\]
 
-Wu, W., and P. Gaubatz. "Introduction." In _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with [Google Books](http://books.google.com/books?id=EcPEykizV3gC&pg=PA1=onepage)\]
+Wu, W., and P. Gaubatz. "Introduction." In _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with {{% resource_link "5df76516-0501-4455-97f6-8e8d4bc1362b" "Google Books" %}}\]
 
-Logan, J. R., ed. "Introduction." In _Urban China in Transition_. Wiley-Blackwell, 2008. ISBN: 9781405161466. \[Preview with [Google Books](http://books.google.com/books?id=pWeiz8cwbpwC&pg=PAfrontcover)\]
+Logan, J. R., ed. "Introduction." In _Urban China in Transition_. Wiley-Blackwell, 2008. ISBN: 9781405161466. \[Preview with {{% resource_link "dae8a48b-ced6-4d2c-82a7-40a8bd38614a" "Google Books" %}}\]
 
-Wu, F. "Beyond gradualism: China's Urban Revolution and Emerging Cities." In _China's Emerging Cities: The Making of New Urbanism_. Routledge, 2008. ISBN: 9780415590433. \[Preview with [Google Books](http://books.google.com/books?id=1XMKxEkmkdIC&pg=PA3=onepage)\]
+Wu, F. "Beyond gradualism: China's Urban Revolution and Emerging Cities." In _China's Emerging Cities: The Making of New Urbanism_. Routledge, 2008. ISBN: 9780415590433. \[Preview with {{% resource_link "ff942e65-3be5-4685-8649-30106dc33cac" "Google Books" %}}\]
 
-Wu, F., J. Xu, and A. G. Yeh. "Post-reform Urban Conditions." In _Urban Development in Post-Reform China: State, Market, and Space_. Routledge, 2006. ISBN: 9780415393591. \[Preview with [Google Books](http://books.google.com/books?id=W2-gotrkbggC&pg=PA1=onepage)\]
+Wu, F., J. Xu, and A. G. Yeh. "Post-reform Urban Conditions." In _Urban Development in Post-Reform China: State, Market, and Space_. Routledge, 2006. ISBN: 9780415393591. \[Preview with {{% resource_link "a5ba5010-062c-45be-86c8-ff0c82c54449" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -71,7 +71,7 @@ Is China an Outlier? China's Urbanization in the Historical and International Co
 {{< tdopen >}}
 
 
-Chen, M., W. Liu, et al. "[Evolution and Assessment on China's Urbanization 1960–2010: Under-Urbanization or Over-Urbanization?](http://dx.doi.org/10.1016/j.habitatint.2012.09.007)" _Habitat International_ 38 (2013): 25–33.
+Chen, M., W. Liu, et al. "{{% resource_link "5d79966e-cbfb-4fe7-8fec-7530370b0a3a" "Evolution and Assessment on China's Urbanization 1960–2010: Under-Urbanization or Over-Urbanization?" %}}" _Habitat International_ 38 (2013): 25–33.
 
 ### Suggested Reading
 
@@ -91,9 +91,9 @@ Fundamentals: Hukou and Migration
 {{< tdopen >}}
 
 
-Wu, W., and P. Gaubatz. "Urban-Rural Divide, Socialist Institutions, and Migration." Chapter 5 in _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with [Google Books](http://books.google.com/books?id=EcPEykizV3gC&pg=PA93=onepage)\]
+Wu, W., and P. Gaubatz. "Urban-Rural Divide, Socialist Institutions, and Migration." Chapter 5 in _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with {{% resource_link "d546d5ac-450d-424a-9e50-662efd672177" "Google Books" %}}\]
 
-Chan, K. W. "[Urbanization and the Chinese Dream](http://english.caixin.com/2013-06-13/100540785.html)," _Caixin Online_, June 13, 2013.
+Chan, K. W. "{{% resource_link "c9554ec5-3020-4560-9171-cd5874556837" "Urbanization and the Chinese Dream" %}}," _Caixin Online_, June 13, 2013.
 
 
 {{< tdclose >}}
@@ -119,7 +119,7 @@ Man, J. Y., and Y. Hong, eds. "Introduction." In _China's Local Public Finance i
 
 Button, K. J. "The Theory of City Size and Spacing." Chapter 6 in _Urban Economics: Theory and Policy_. Palgrave Macmillan, 1976. ISBN: 9780333185957.
 
-Harris, J. R., and M. P. Todaro. "[Migration, Unemployment, and Development: A Two-Sector Analysis](http://ideas.repec.org/a/aea/aecrev/v60y1970i1p126-42.html)." _American Economic Review_ 60, no. 1 (1970): 126–42.
+Harris, J. R., and M. P. Todaro. "{{% resource_link "deb672a2-34e7-49da-bba9-7e2c44deb0dc" "Migration, Unemployment, and Development: A Two-Sector Analysis" %}}." _American Economic Review_ 60, no. 1 (1970): 126–42.
 
 
 {{< tdclose >}}
@@ -149,7 +149,7 @@ Brownfields in Beijing Chemical Plant: How Cities Recycle Industrial Land
 
 Li, X. "Environmental Governance of Brownfields in Deindustrializing Regions: Implications of a Land-Redevelopment Case in China." Working paper, 2013.
 
-Jenkins, R. R., E. Kopits, et al. "[Policy Monitor—The Evolution of Solid and Hazardous Waste Regulation in the United States](http://dx.doi.org/10.1093/reep/ren018)." _Review of Environmental Economics and Policy_ 3, no. 1 (2009): 104–20.
+Jenkins, R. R., E. Kopits, et al. "{{% resource_link "db5a81fe-66f2-4e8c-ac71-b77e27196ec4" "Policy Monitor—The Evolution of Solid and Hazardous Waste Regulation in the United States" %}}." _Review of Environmental Economics and Policy_ 3, no. 1 (2009): 104–20.
 
 
 {{< tdclose >}}
@@ -199,17 +199,17 @@ Dispersion of Urban Agglomeration through High Speed Rail
 {{< tdopen >}}
 
 
-Banister, D. "[Quantification of the Non-Transport Benefits Resulting from Rail Investment](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.232.5656)." _Transport Study Unit Working Paper Series_, 2007.
+Banister, D. "{{% resource_link "3a37efae-614c-4f57-a95a-4ed9e99aac7e" "Quantification of the Non-Transport Benefits Resulting from Rail Investment" %}}." _Transport Study Unit Working Paper Series_, 2007.
 
-Fang, W. "[Dispersion of Agglomeration through High Speed Rail](http://dspace.mit.edu/handle/1721.1/81637)." Doctoral Disssertation, MIT, 2013.
+Fang, W. "{{% resource_link "ed2a59dd-15a8-4cdf-8c6a-266609733301" "Dispersion of Agglomeration through High Speed Rail" %}}." Doctoral Disssertation, MIT, 2013.
 
 ### Suggested Readings
 
-Evers, G. H. M., P. H. Meer, et al. "[Regional Impacts of New Transport Infrastructure: A Multisectoral Potentials Approach](http://dx.doi.org/10.1007/BF00837588)." _Transportation_ 14, no. 2 (1987): 113–26.
+Evers, G. H. M., P. H. Meer, et al. "{{% resource_link "974321db-ca86-4217-9c3f-d8f8407cee12" "Regional Impacts of New Transport Infrastructure: A Multisectoral Potentials Approach" %}}." _Transportation_ 14, no. 2 (1987): 113–26.
 
-Givoni, M. "[Development and Impact of the Modern High-speed Train: A Review](http://dx.doi.org/10.1080/01441640600589319)." _Transport Reviews: A Transnational Transdisciplinary Journal_ 26, no. 5 (2006): 593–611.
+Givoni, M. "{{% resource_link "fe397675-1c07-4f7c-9845-81e2f9d2d761" "Development and Impact of the Modern High-speed Train: A Review" %}}." _Transport Reviews: A Transnational Transdisciplinary Journal_ 26, no. 5 (2006): 593–611.
 
-Lakshmanan, T. R. "[The Broader Economic Consequences of Transport Infrastructure Investments](http://dx.doi.org/10.1016/j.jtrangeo.2010.01.001)." _Journal of Transport Geography_ 19, no. 1 (2011): 1–12.
+Lakshmanan, T. R. "{{% resource_link "668b678f-6cbf-433b-aeea-6943d9fca348" "The Broader Economic Consequences of Transport Infrastructure Investments" %}}." _Journal of Transport Geography_ 19, no. 1 (2011): 1–12.
 
 
 {{< tdclose >}}
@@ -229,9 +229,9 @@ Managing Car Ownership in Chinese Mega Cities
 {{< tdopen >}}
 
 
-Zhao, J., T. Chen, et al. "[Superficial Fairness of Beijing'sVehicle License Lottery Policy](http://trid.trb.org/view.aspx?id=1287546)." Working Paper, 2013.
+Zhao, J., T. Chen, et al. "{{% resource_link "3367e782-14c7-486c-a6b5-2ad0df9931c3" "Superficial Fairness of Beijing'sVehicle License Lottery Policy" %}}." Working Paper, 2013.
 
-Chen, T., and J. Zhao. "[Bidding to Drive: Car License Auction Policy in Shanghai and Its Public Acceptance](http://dx.doi.org/10.1016/j.tranpol.2012.11.016)." _Transport Policy_ 27, (2012): 39–52.
+Chen, T., and J. Zhao. "{{% resource_link "84137d42-62bb-4028-94cf-8bbfe703d4a9" "Bidding to Drive: Car License Auction Policy in Shanghai and Its Public Acceptance" %}}." _Transport Policy_ 27, (2012): 39–52.
 
 Castro, M., and J. Zhao. "Price as a Signal for Policy Fine-tuning A Time-Series Model of Shanghai's License Auction." Working paper, 2013.
 
@@ -253,11 +253,11 @@ Costs of Air Pollution: Focusing on its Human Health Damage
 {{< tdopen >}}
 
 
-Matus, K., K. Nam, et al. "[Health Damages from Air Pollution in China](https://globalchange.mit.edu/publication/14049)." _Global Environmental Change_ 22, no. 1 (2012): 55–66.
+Matus, K., K. Nam, et al. "{{% resource_link "19a400c9-5d12-4979-8241-d35e5aacac1a" "Health Damages from Air Pollution in China" %}}." _Global Environmental Change_ 22, no. 1 (2012): 55–66.
 
 ### Suggested Reading
 
-Buckley, C. "[Silver Lining in China's Smog as It Puts Focus on Emissions](http://www.nytimes.com/2013/09/01/world/asia/silver-lining-in-chinas-smog-as-it-puts-focus-on-emissions.html?_r=0)," _New York Times_, August 31, 2013.
+Buckley, C. "{{% resource_link "4d5c15dc-b991-42c4-b367-6d0710330bbd" "Silver Lining in China's Smog as It Puts Focus on Emissions" %}}," _New York Times_, August 31, 2013.
 
 
 {{< tdclose >}}
@@ -275,7 +275,7 @@ Advancing Low-Carbon Cities: Pathways through CERC
 
 {{< tdclose >}}
 {{< tdopen >}}
-Tsay, S., and V. Herrmann. "[A New Focus for U.S.-China Cooperation: Low-Carbon Cities](http://carnegieendowment.org/2013/07/24/new-focus-for-u.s.-china-cooperation-low-carbon-cities/ggf3)." _Carnegie Endowment for International Peace_, July 24, 2013.
+Tsay, S., and V. Herrmann. "{{% resource_link "f14f84a9-cd05-437c-bcb4-726b479fee8d" "A New Focus for U.S.-China Cooperation: Low-Carbon Cities" %}}." _Carnegie Endowment for International Peace_, July 24, 2013.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +301,7 @@ Progress in Energy Efficiency: Technology, Policy and Market in China's Automobi
 {{< tdopen >}}
 
 
-Shu, Y., Y. Yu, et al. ["Fuel Consumption and Technological Progress in Chinese Automobile Sector." (PDF - 1.2MB)](http://www.stanford.edu/group/peec/cgi-bin/docs/events/2013/10-25-13%20Yu.pdf) Working Paper, 2013.
+Shu, Y., Y. Yu, et al. {{% resource_link "c5e5e822-3f08-4f7f-8542-5772e3db4eaf" "\"Fuel Consumption and Technological Progress in Chinese Automobile Sector.\" (PDF - 1.2MB)" %}} Working Paper, 2013.
 
 
 {{< tdclose >}}
@@ -371,7 +371,7 @@ Drifting and Getting Stuck: Migrants in Chinese Cities
 {{< tdopen >}}
 
 
-Wu, W. "[Drifting and Getting Stuck: Migrants in Chinese Cities](http://dx.doi.org/10.1080/13604810903298490)." _City: Analysis of UrbanTrends, Culture, Theory, Policy, Action_ 14, no. 1–2 (2010): 13–24.
+Wu, W. "{{% resource_link "47846463-b6d1-4b32-a401-4886d1119ea6" "Drifting and Getting Stuck: Migrants in Chinese Cities" %}}." _City: Analysis of UrbanTrends, Culture, Theory, Policy, Action_ 14, no. 1–2 (2010): 13–24.
 
 
 {{< tdclose >}}
@@ -385,7 +385,7 @@ Wu, W. "[Drifting and Getting Stuck: Migrants in Chinese Cities](http://dx.doi.o
 Urbanization vs. Citizenization: Self-employed Migrants in Wangjingxi Market
 {{< tdclose >}}
 {{< tdopen >}}
-Eckstein, S. "[Urbanization Revisited: Inner-city Slum of Hope and Squatter Settlement of Despair](http://dx.doi.org/10.1016/0305-750X(90)90046-Z)." _Journal of World Development_ 18, no. 2 (1990): 165–81.
+Eckstein, S. "{{% resource_link "deb5474d-6a96-41c0-b7ec-0302ffec9ca3" "Urbanization Revisited: Inner-city Slum of Hope and Squatter Settlement of Despair" %}}." _Journal of World Development_ 18, no. 2 (1990): 165–81.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,9 +399,9 @@ Spatial Justice in Affordable Housing Design in Ningbo
 {{< tdopen >}}
 
 
-Ng, H. "[Ningbo Eastern New City Economical Housing](http://archrecord.construction.com/ar_china/BWAR/0804/0804_ningbo/0804_ningbo.asp)." _Architectural Record, China Supplement_, April 2008.
+Ng, H. "{{% resource_link "d4c933a8-8fec-49f1-bd47-df6d6e619a7e" "Ningbo Eastern New City Economical Housing" %}}." _Architectural Record, China Supplement_, April 2008.
 
-Jacobson, C. "[Yinzhou Talent Apartments](http://archrecord.construction.com/projects/portfolio/2013/03/1303-Yinzhou-Talent-Apartments-DC-Alliance.asp)." _Architectural Record_, March 2013.
+Jacobson, C. "{{% resource_link "1f5366c4-4372-46c4-b997-ca17f3b8c3fd" "Yinzhou Talent Apartments" %}}." _Architectural Record_, March 2013.
 
 
 {{< tdclose >}}
@@ -423,11 +423,11 @@ Mao, Q. "Preservation in the Old City of Beijing: The "Hutong-Courtyard Housing"
 
 Heikkila, E. "Beijing: Lost in Translation ?" _Journal of Architectural and Planning Research_ 28, no. 1 (2011): 76.
 
-Abramson, D. B. "[The Aesthetics of City-Scale Preservation Policy in Beijing](http://dx.doi.org/10.1080/02665430701213531)." _Planning Perspectives_ 22, no. 2 (2007): 129–66.
+Abramson, D. B. "{{% resource_link "40a95483-91a4-4664-bbee-85d465227328" "The Aesthetics of City-Scale Preservation Policy in Beijing" %}}." _Planning Perspectives_ 22, no. 2 (2007): 129–66.
 
-Fengyi, L., and W. Bing. "[The Death and the Life of Beijing](http://dx.doi.org/10.3968%2Fj.css.1923669720110703.029)." _Canadian Social Science_ 7, no. 3 (2011): 198–201.
+Fengyi, L., and W. Bing. "{{% resource_link "51b247ea-6739-4c51-ae02-0faa32bbe7bf" "The Death and the Life of Beijing" %}}." _Canadian Social Science_ 7, no. 3 (2011): 198–201.
 
-"[The Lost City: Beijing](https://www.academicvideostore.com/video/lost-city-beijing)." Phoenix Satellite Television. Filmakers Library, 2007.
+"{{% resource_link "6a12288d-abdf-487e-86ef-d834e265b82d" "The Lost City: Beijing" %}}." Phoenix Satellite Television. Filmakers Library, 2007.
 
 
 {{< tdclose >}}
@@ -443,9 +443,9 @@ Aging Society: Offering Care to the Elderly in the Confucius Society
 {{< tdopen >}}
 
 
-Retsinas, N. "[China: Who Will Care for the Elderly?](http://urbanland.uli.org/economy-markets-trends/china-who-will-care-for-the-elderly/)" _Urbanland_, April 20, 2012.
+Retsinas, N. "{{% resource_link "6e0c2708-9104-4ca4-8ed3-c869968302be" "China: Who Will Care for the Elderly?" %}}" _Urbanland_, April 20, 2012.
 
-Fung, E. "[Aging China Draws Bets on Senior Housing](https://bambooinnovator.com/2013/11/06/aging-china-draws-bets-on-senior-housing/)," _Wall Street Journal_, November 5, 2013.
+Fung, E. "{{% resource_link "dba08c6a-47f2-4474-afed-635cf108cac4" "Aging China Draws Bets on Senior Housing" %}}," _Wall Street Journal_, November 5, 2013.
 
 ### Suggested Reading
 
@@ -463,7 +463,7 @@ Chang, L. T. _Factory Girls: From Village to City in a Changing China_. Spiegel 
 Forging Greater Xi'an: New Regional Strategies and their Urban Outcomes
 {{< tdclose >}}
 {{< tdopen >}}
-Jiang, X. "[Governing City-regions in China: Theoretical Issues and Perspectives for Regional Strategic Planning](http://dx.doi.org/10.3828/tpr.79.2-3.2)." _The Town Planning Review_ 79, no. 2 (2008): 157–86.
+Jiang, X. "{{% resource_link "fee3b93c-903d-4171-82f6-faf4f7f4cec8" "Governing City-regions in China: Theoretical Issues and Perspectives for Regional Strategic Planning" %}}." _The Town Planning Review_ 79, no. 2 (2008): 157–86.
 {{< tdclose >}}
 
 {{< trclose >}}
