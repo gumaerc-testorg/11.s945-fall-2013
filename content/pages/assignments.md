@@ -39,7 +39,7 @@ Each pair of students will be assigned to one of the literature synthesis {{% re
 2. Stages / components   
       
     1. Problem formulation: overview of the subject, issue or theory; clarify the objectives of the literature review
-    2. Literature search: [Google Scholar](http://scholar.google.com/), [Web of Science](http://wokinfo.com/), MIT Vera, [Google](https://www.google.com/)
+    2. Literature search: {{% resource_link "4a0f18b6-8186-499c-8009-d94666a15b5e" "Google Scholar" %}}, {{% resource_link "1c5fb08f-dd18-4670-9ec4-20a747e58977" "Web of Science" %}}, MIT Vera, {{% resource_link "33c76015-2da3-4a0f-b29f-c350e12e092e" "Google" %}}
     3. Data categorization and evaluation   
         Four typical structures of organization:   
           
@@ -60,7 +60,7 @@ Each pair of students will be assigned to one of the literature synthesis {{% re
         - Point the way forward for further research
     5. Conclusions
 3. Bibliography   
-    Please provide full reference information and follow the [APA Style](http://www.apastyle.org/){{< sup "®" >}}. You can find a [basic introduction to the APA citation style](http://library.concordia.ca/help/howto/apa.php) from Concordia University Libraries.
+    Please provide full reference information and follow the {{% resource_link "78862e2d-43ac-4ca8-8baa-4b917f57cf5c" "APA Style" %}}{{< sup "®" >}}. You can find a {{% resource_link "f80ca80c-630c-4dbc-803b-3cd9d30f2ba5" "basic introduction to the APA citation style" %}} from Concordia University Libraries.
 4. How to start
 
 - Read other papers' literature review sections and follow good styles.

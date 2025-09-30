@@ -164,12 +164,12 @@ Recommended Books
 
 While texts relevant to each of the class sessions are provided in the {{% resource_link 241f4725-7635-4981-e2f1-9823bf3d66a3 "Readings" %}} section, below is a list of recommended books for this course:
 
-Wu, Weiping, and Piper Gaubatz. _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with [Google Books](http://books.google.com/books?id=EcPEykizV3gC&pg=PAfrontcover)\]
+Wu, Weiping, and Piper Gaubatz. _The Chinese City_. Routledge, 2012. ISBN: 9780415575751. \[Preview with {{% resource_link "36ced1bb-6a01-4bab-8472-0f26c3d06bce" "Google Books" %}}\]
 
-Wu, Fulong, Jiang Xu, and Anthony Gar-On Yeh. _Urban Development in Post-Reform China: State, Market, and Space_. Routledge, 2006. ISBN: 9780415393591. \[Preview with [Google Books](http://books.google.com/books?id=W2-gotrkbggC&pg=PAfrontcover)\]
+Wu, Fulong, Jiang Xu, and Anthony Gar-On Yeh. _Urban Development in Post-Reform China: State, Market, and Space_. Routledge, 2006. ISBN: 9780415393591. \[Preview with {{% resource_link "34e11237-a35f-44ae-a2a2-fdfdc7e55848" "Google Books" %}}\]
 
-Campanella, Thomas. _The Concrete Dragon: China's Urban Revolution and What it Means for the World_. Reprint ed. Princeton Architectural Press, 2011. ISBN: 9781568989686. \[Preview with [Google Books](http://books.google.com/books?id=I57PTFyjyqgC&pg=PAfrontcover)\]
+Campanella, Thomas. _The Concrete Dragon: China's Urban Revolution and What it Means for the World_. Reprint ed. Princeton Architectural Press, 2011. ISBN: 9781568989686. \[Preview with {{% resource_link "3550c352-45b9-42f7-95cf-b317579e7a7f" "Google Books" %}}\]
 
-Logan, John R., ed. _Urban China in Transition_. Wiley-Blackwell, 2008. ISBN: 9781405161466. \[Preview with [Google Books](http://books.google.com/books?id=pWeiz8cwbpwC&pg=PAfrontcover)\]
+Logan, John R., ed. _Urban China in Transition_. Wiley-Blackwell, 2008. ISBN: 9781405161466. \[Preview with {{% resource_link "dae8a48b-ced6-4d2c-82a7-40a8bd38614a" "Google Books" %}}\]
 
-Friedmann, John. _China's Urban Transition_. University of Minnesota Press, 2005. ISBN: 9780816646159. \[Preview with [Google Books](http://books.google.com/books?id=6EzyPHETvWMC&pg=PAfrontcover)\]
+Friedmann, John. _China's Urban Transition_. University of Minnesota Press, 2005. ISBN: 9780816646159. \[Preview with {{% resource_link "61076509-8581-4ba5-8ca9-842105bf8ca7" "Google Books" %}}\]
