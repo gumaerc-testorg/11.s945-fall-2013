@@ -8,7 +8,6 @@ ocw_type: CourseSection
 title: Projects
 uid: 2f74bf52-0c54-5aca-42b4-8845671bd27c
 ---
-
 Students will pair themselves and deliver a project as a team. Each pair will choose one of the {{% resource_link 28aa22b4-dc4e-f8f6-2b97-78ceccd6ca8f "candidate topics" %}} or may propose a different topic, which is equally encouraged. The deliverables include:
 
 *   Project idea (600 words) and presentation (5 minutes)
@@ -156,6 +155,6 @@ Keywords
 
 {{< tableclose >}}
 
-Please use {{% resource_link "f5919efc-4728-436c-9cac-5fc4355a07f1" "Mendeley" %}} or {{% resource_link "31987130-a9a2-4f1a-95dc-45cbd41fa14d" "Zotero" %}} for references, and follow the {{% resource_link "78862e2d-43ac-4ca8-8baa-4b917f57cf5c" "APA Style{{< sup \"{{< sub \\"®\\" >}}\" >}}" %}}.
+Please use [Mendeley](http://www.mendeley.com/) or [Zotero](https://www.zotero.org/) for references, and follow the [APA Style{{< sup "{{< sub \"®\" >}}" >}}](http://www.apastyle.org/).
 
 Both draft and final reports should be a complete documentation of your term projects. The difference is that the draft is the best you can do before the instructor's comments, and the final is the best you can do after the instructor's comments.
